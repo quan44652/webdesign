@@ -1,0 +1,22 @@
+.header {
+    height: 428px;
+    background-color: #0f0c1c;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;  
+    height: 42px;
+}
+
+.header__nav-img {
+   
+}
+
+.header__nav-item-link {
+    background-color: #6C56C2;
+    text-decoration: none;
+    line-height: 42px;
+    height: 100%;
+}
