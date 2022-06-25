@@ -49,12 +49,6 @@ html {
     justify-content: center;
 }
 
-.backgourd--primery {
-    background-color: #1E1B2A;
-    opacity: 0.5;
-}
-
-
 @media screen and (max-width:46.1875em) {
     .gird__column-2-4 {
         width: 100%;
@@ -63,6 +57,10 @@ html {
         margin-bottom: 24px;
 
     }
+
+    .footer__section {
+        padding-top: 16px;
+        }
 }
 
 @media screen and (max-width:63.9375em) and (min-width:46.24em) {
@@ -72,4 +70,8 @@ html {
         padding-right: 15px;
         margin-bottom: 24px;
     }
+
+    .footer__section {
+        padding-top: 16px;
+        }
 }
